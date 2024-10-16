@@ -1,6 +1,6 @@
 # Reddit Cartography
 
-![Visaualisation](visualisation\exports\RedditCartography.png)
+![Visaualisation](visualisation/exports/RedditCartography.png)
 
 ## Project Description
 
@@ -36,8 +36,8 @@ The project is organized as follows:
 We visualized the subreddit relationships using GEPHI. The visualizations were designed to highlight the main subreddit communities, such as gaming, memes, tech news, and NSFW content. The ForceAtlas2 algorithm was employed to structure the graphs, with color coding based on modularity to distinguish different community clusters.
 
 Some of the key visualizations:
-- [Top 500 Subreddits Map](visualisation\top500_Cartography\Cartography_top500.png)
-- [Top 1000 Subreddits Map](visualisation\top100to1000_Cartography\Cartography_top100to1000_HighQuality.png)
+- [Top 500 Subreddits Map](visualisation\exports\RedditCartography.png)
+
 
 ## Results and Evaluation
 
